@@ -19,7 +19,7 @@ function Home() {
           image="https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/I/B/154305_1599002319.jpg"
         />
         <Products
-          id="123456"
+          id="3456765"
           title="The lean Startup: How constant Innovation Creates Redically Successful Business Paperback"
           price={11.9}
           rating={5}
@@ -28,21 +28,21 @@ function Home() {
       </div>
       <div className="home__row">
         <Products
-          id="123456"
+          id="234345"
           title="Amazon Basics 14-Piece Kitchen Knife Set with High-Carbon Stainless-Steel Blades and Pine Wood Block"
           price={11.9}
           rating={4}
           image="https://www.buckknives.com/images/products/hero/0938BKS-B.jpg"
         />
         <Products
-          id="123456"
+          id="654321"
           title="Instant Pot Duo 7-in-1 Electric Pressure Cooker, Slow Cooker, Rice Cooker, Steamer, Saute, Yogurt Maker, Sterilizer, and Warmer, 6 Quart, 14 One-Touch Programs"
           price={99.9}
           rating={5}
           image="https://www.gigantti.fi/image/dv_web_D180001002707770/HD965090/philips-avance-collection-airfryer-xxl-kiertoilmakypsennin-hd965090.jpg?$fullsize$"
         />
         <Products
-          id="123456"
+          id="321654"
           title="USB C to Dual HDMI Adapter, USB C Docking Station Dual HDMI Monitors for Windows,USB C Adapter with Dual HDMI,3 USB Port,PD Port Compatible for Dell XPS 13/15, Lenovo Yoga,etc"
           price={31.9}
           rating={5}
@@ -51,7 +51,7 @@ function Home() {
       </div>
       <div className="home__row">
         <Products
-          id="123456"
+          id="321456"
           title="Acer R240HY bidx 23.8-Inch IPS HDMI DVI VGA (1920 x 1080) Widescreen Monitor, Black"
           price={279.9}
           rating={5}
