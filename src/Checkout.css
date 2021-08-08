@@ -1,4 +1,6 @@
-.checkout {
+.checkout div h2 {
+  text-align: center;
+  padding: 10px;
 }
 .checkout__ad {
   width: 100%;

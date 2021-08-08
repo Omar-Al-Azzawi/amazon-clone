@@ -1,5 +1,6 @@
 .checkoutProducts {
   display: flex;
+  padding: 20px;
 }
 .checkoutProducts__image {
   object-fit: contain;
@@ -15,10 +16,12 @@
 }
 .checkoutProducts__rating {
   display: flex;
+  padding: 5px 0;
 }
-.checkoutProducts__info > button {
+.checkoutProducts__info button {
   background-color: #f0c14b;
   border: 1px solid;
   border-color: #a88734 #9e7e31 #846a29;
   color: #111;
+  margin: 20px 0;
 }
